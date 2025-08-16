@@ -8,3 +8,5 @@ im making a shirt
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/789726c9-378f-4d09-a865-fb0134128d6a" />
 
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/e2255df3-f584-459f-9f11-856130290d20" />
+
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/2a0ae431-7792-49a5-ad2f-4fc27838d7c5" />
