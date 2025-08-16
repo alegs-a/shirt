@@ -6,3 +6,5 @@ im making a shirt
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/97c50521-5632-47eb-8f56-053203b373ea" />
 
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/789726c9-378f-4d09-a865-fb0134128d6a" />
+
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/e2255df3-f584-459f-9f11-856130290d20" />
