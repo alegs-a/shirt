@@ -14,3 +14,6 @@ im making a shirt
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/a8d02ae9-eaee-4739-b900-501f59181b18" />
 
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/f550739f-4bcf-439e-8172-71befbae2be3" />
+
+fronts and backs all together! Don't they look happy :)
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/2f96385f-1358-4a5a-b281-dc6734e184d7" />
