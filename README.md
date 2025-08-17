@@ -17,3 +17,7 @@ im making a shirt
 
 fronts and backs all together! Don't they look happy :)
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/2f96385f-1358-4a5a-b281-dc6734e184d7" />
+
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/915f6975-4aa2-4385-a1ed-6dd312117d48" />
+
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/b7dc6a7c-4a33-46b5-81c7-fd8ba9134d7a" />
